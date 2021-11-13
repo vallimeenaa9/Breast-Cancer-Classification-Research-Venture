@@ -9,4 +9,6 @@ A multilevel ensemble convolutional neural network model has been developed for 
 ## Requirements
 1. Download the Dataset after applying to the BACH Grand Challenge, after which, the dataset would be made available to you.
 2. Apply to the following link: https://iciar2018-challenge.grand-challenge.org/
-3. Enable the TPU in Colab so as to make use of the tensor processing unit to reduce the training time of the ensemble model.
+3. Upload the dataset to your drive, and mount your drive to  Colab.
+4. Edit the path of the dataset now available on your drive.
+5. Enable the TPU in Colab so as to make use of the tensor processing unit to reduce the training time of the ensemble model.
